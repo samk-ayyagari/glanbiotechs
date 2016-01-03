@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "bower": "latest",
-    "grunt":"latest",
+    "grunt":"~0.4.1",
     "ejs": "2.3.3",
     "express": "4.13.3",
     "connect": "2.4.2",
