@@ -8,7 +8,8 @@
     "connect": "2.4.2",
     "body-parser": "~1.5.2",
     "compass":"0.1.1",
-    "ruby":"0.6.0 " 
+    "ruby":"0.6.0 " ,
+    "grunt-contrib-compass": "^0.7.2"
   },
   "devDependencies": {
     "connect": "^2.4.2",
